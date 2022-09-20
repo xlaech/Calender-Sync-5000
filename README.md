@@ -1,4 +1,4 @@
-# About Anti-Lock 5000
+# About Calender-Sync 5000
 
 For people working in client environments setups might occure, in which they are forced to work on a client workstation, while not beeing allowed to share calender invites with their work account due to compliance not allowing the sharing of information with the external account. These makes it very difficult to keep an overview of all the different meetings in both companies.
 
