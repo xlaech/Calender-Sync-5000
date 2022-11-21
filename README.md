@@ -19,7 +19,7 @@ Search for "Visual Basic-Editor" in the search bar on top of outlook and open it
 In the code change the following 2 lines to match your situation:
 
 ```vba
-.Add my.email@company.com 'change address to your own
+.Add "my.email@company.com" 'change address to your own
 .Subject = "MyClient Meeting" 'change Company Name
 ```
 
