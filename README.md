@@ -10,9 +10,12 @@ At the moment the original senders name is not removed. I might address this in 
 
 # How to install
 
+![Adding the code to Outlook](https://github.com/xlaech/Calender-Sync-5000/blob/master/screenshot.png)
+
 Search for "Visual Basic-Editor" in the search bar on top of outlook and open it. Double click on "ThisOutlookSession" on the left and insert the code.
 
-![Adding the code to Outlook](https://github.com/xlaech/Calender-Sync-5000/blob/master/screenshot.png)
+
+![Anti-Lock 5000 in action](https://github.com/xlaech/Anti-Lock-5000/blob/master/screenshot.png)
 
 In the code change the following 2 lines to match your situation:
 
