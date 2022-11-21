@@ -22,7 +22,7 @@ Private Sub ReceivedItems_ItemAdd(ByVal Item As Object)
                 r.Delete
             Next r
             With .Recipients
-                .Add my.email@company.com 'change address to your own
+                .Add "my.email@company.com" 'change address to your own
                 .ResolveAll
             End With
             
